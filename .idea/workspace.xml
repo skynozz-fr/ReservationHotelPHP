@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5e2392-d394-43c1-b212-a71cfe765f19" name="Changes" comment="" />
+    <list default="true" id="6d5e2392-d394-43c1-b212-a71cfe765f19" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/�" beforePathEscaped="$PROJECT_DIR$/#1#�" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/allwamp/wamp64/www/formation/phase-4/devoir-1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,7 +71,7 @@
       <workItem from="1705068856496" duration="1231000" />
       <workItem from="1705326949577" duration="41000" />
       <workItem from="1705327002694" duration="754000" />
-      <workItem from="1705327766668" duration="1180000" />
+      <workItem from="1705327766668" duration="1492000" />
     </task>
     <servers />
   </component>
